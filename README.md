@@ -14,7 +14,7 @@ CAEmitterLayer用来实现基于Core Animation的粒子发生器系统。每个�
 
 再来看看我们要完成的效果：
 
-![这里写图片描述](https://static.shengri.cn/uploads/xydd/wechat/cards/qq1.gif)
+![完成的效果图](https://static.shengri.cn/uploads/xydd/wechat/cards/qq1.gif)
 
 有没有很漂亮（快夸夸我。。。）
 
